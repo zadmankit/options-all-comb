@@ -1,0 +1,7 @@
+streamlit
+streamlit-aggrid
+pandas
+numpy
+requests
+python-dotenv
+openpyxl
